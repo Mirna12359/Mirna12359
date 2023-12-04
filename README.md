@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mirna samy
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in machine learning and Frontend 
 - UZH International Summer School: Deep Dive into 
 Blockchain 2023 (University of Zurich)
 Bachelor of Computer Science from Zagazig 
